@@ -20,6 +20,10 @@
 
 ## Usage
 
+Install directly in [Aofuji Light Theme - VS Marketplace](https://marketplace.visualstudio.com/items?itemName=amzrk2.vscode-theme-aofuji).
+
+Or use:
+
 ```bash
 ext install amzrk2.vscode-theme-aofuji
 ```
