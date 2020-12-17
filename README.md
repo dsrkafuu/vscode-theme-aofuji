@@ -17,10 +17,14 @@
 
 ## Preview
 
+<p align="center">
+  <img alt="Preview" src="https://raw.githubusercontent.com/amzrk2/vscode-theme-aofuji/main/src/preview.png">
+</p>
+
 ## Usage
 
 ```bash
-
+ext install amzrk2.vscode-theme-aofuji
 ```
 
 The theme is recommended to be used with icons from [Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme).
