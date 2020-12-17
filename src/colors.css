@@ -1,0 +1,34 @@
+/* color schemes */
+
+:root {
+  --aofuji-0: #8aa2d3;
+  --aofuji-1: #8aa2d3cc;
+  --aofuji-2: #8aa2d399;
+  --aofuji-3: #8aa2d366;
+  --aofuji-4: #8aa2d333;
+
+  --fuji-0: #ff9940;
+  --fuji-1: #ff9940cc;
+  --fuji-2: #ff994099;
+  --fuji-3: #ff994066;
+  --fuji-4: #ff994033;
+
+  --black-0: #3f4551;
+  --black-1: #3f4551bf;
+  --black-2: #3f455180;
+  --black-2: #3f455166;
+  --black-2: #3f45514d;
+
+  --white-0: #f3f3f3;
+  --white-1: #fafafa;
+  --white-2: #fffffd;
+
+  --hl-grey: #8d9297;
+  --hl-orange: #fa8d3e;
+  --hl-red: #f07171;
+  --hl-green: #86b300;
+  --hl-wood: #4cbf99;
+  --hl-blue: #399ee6;
+  --hl-ao: #7793cc;
+  --hl-cyan: #a37acc;
+}

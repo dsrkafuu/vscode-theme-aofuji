@@ -1,0 +1,51 @@
+{
+  "name": "aofuji",
+  "displayName": "Aofuji Theme",
+  "description": "A clean light theme extended from Aofuji.",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.31.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "src/icon.png",
+  "galleryBanner": {
+    "color": "#8aa2d3",
+    "theme": "light"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aofuji",
+        "uiTheme": "vs",
+        "path": "./themes/aofuji-color-theme.json",
+        "color": "#8aa2d3"
+      },
+      {
+        "label": "Aofuji (Oranji)",
+        "uiTheme": "vs",
+        "path": "./themes/oranji-color-theme.json",
+        "color": "#ff9940"
+      }
+    ]
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/amzrk2/vscode-theme-aofuji",
+  "bugs": {
+    "url": "https://github.com/amzrk2/vscode-theme-aofuji/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amzrk2/vscode-theme-aofuji.git"
+  },
+  "devDependencies": {
+    "json5": "^2.1.3",
+    "nodemon": "^2.0.6",
+    "vsce": "^1.81.1"
+  },
+  "scripts": {
+    "dev": "nodemon --watch themes/raw-color-theme.json --ext json scripts/build.js",
+    "build": "node scripts/build.js"
+  }
+}

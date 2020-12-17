@@ -1,0 +1,11 @@
+node_modules/
+*.vsix
+
+themes/*
+!themes/raw-color-theme.json
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
