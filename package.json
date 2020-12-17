@@ -1,6 +1,6 @@
 {
   "name": "vscode-theme-aofuji",
-  "displayName": "Aofuji Theme",
+  "displayName": "Aofuji Light Theme",
   "description": "A clean light theme extended from Aofuji.",
   "version": "0.1.0",
   "author": "DSRKafuU <amzrk2@outlook.com> (https://amzrk2.cc/)",
@@ -11,10 +11,18 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "vscode",
+    "vscode-theme",
+    "theme",
+    "color-theme",
+    "light",
+    "light-theme"
+  ],
   "icon": "src/icon.png",
   "galleryBanner": {
     "color": "#8aa2d3",
-    "theme": "light"
+    "theme": "dark"
   },
   "contributes": {
     "themes": [

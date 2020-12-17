@@ -1,18 +1,15 @@
 <h1 align="center">
   <br />
-    <img src="https://raw.githubusercontent.com/amzrk2/vscode-theme-aofuji/main/src/icon.png" alt="logo" width="128" />
+  <img src="https://raw.githubusercontent.com/amzrk2/vscode-theme-aofuji/main/src/icon.png" alt="logo" width="128" />
   <br /><br />
-  VSCode Theme Aofuji
-  <br />
-  <br />
+  Aofuji Light Theme
+  <br /><br />
 </h1>
 
 <h4 align="center">A minimal light theme extended from Aofuji.</h4>
 
 <p align="center">
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/amzrk2/vscode-theme-aofuji/test">&nbsp;
-  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/amzrk2/vscode-theme-aofuji">&nbsp;
-  <img alt="GitHub" src="https://img.shields.io/github/license/amzrk2/vscode-theme-aofuji">
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/amzrk2/vscode-theme-aofuji/test">&nbsp;<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/amzrk2/vscode-theme-aofuji">&nbsp;<img alt="GitHub" src="https://img.shields.io/github/license/amzrk2/vscode-theme-aofuji">
 </p>
 
 ## Preview

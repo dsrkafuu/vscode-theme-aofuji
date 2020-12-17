@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file. The format 
 
 ## [Unreleased]
 
+### Changed
+
+- Fix theme metadata
+
 ## [0.1.0] - 2020-12-17
 
 ### Added
