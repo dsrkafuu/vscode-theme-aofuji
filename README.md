@@ -1,6 +1,19 @@
-# VSCode Theme Aofuji
+<h1 align="center">
+  <br />
+    <img src="https://raw.githubusercontent.com/amzrk2/vscode-theme-aofuji/main/src/icon.png" alt="logo" width="128" />
+  <br /><br />
+  VSCode Theme Aofuji
+  <br />
+  <br />
+</h1>
 
-A minimal light theme extended from Aofuji.
+<h4 align="center">A minimal light theme extended from Aofuji.</h4>
+
+<p align="center">
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/amzrk2/vscode-theme-aofuji/test">&nbsp;
+  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/amzrk2/vscode-theme-aofuji">&nbsp;
+  <img alt="GitHub" src="https://img.shields.io/github/license/amzrk2/vscode-theme-aofuji">
+</p>
 
 ## Preview
 
@@ -14,9 +27,9 @@ The theme is recommended to be used with icons from [Material Icon Theme](https:
 
 ## Theme Status
 
-The theme is still in beta testing, so the color adjustment of some modules may have imperfections; syntax highlighting has been tested in HTML, JavaScript, CSS and Markdown files, if you encounter problems in other languages, please [raise an issue]().
+The theme is still in beta testing, so the color adjustment of some modules may have imperfections; syntax highlighting has been tested in HTML, JavaScript, CSS and Markdown files, if you encounter problems in other languages, please [raise an issue](https://github.com/amzrk2/vscode-theme-aofuji/issues).
 
-If you have suggestions on how to improve the theme, please also [raise an issue]() or [add a pull request]().
+If you have suggestions on how to improve the theme, please also [raise an issue](https://github.com/amzrk2/vscode-theme-aofuji/issues) or [add a pull request](https://github.com/amzrk2/vscode-theme-aofuji/pulls).
 
 ## Development
 
