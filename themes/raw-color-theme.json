@@ -99,6 +99,8 @@
     "statusBar.foreground": "#3f4551",
     "statusBar.debuggingBackground": "#8aa2d3",
     "statusBar.debuggingForeground": "#fffffd",
+    "statusBar.noFolderBackground": "#f3f3f3",
+    "statusBar.noFolderForeground": "#3f4551",
 
     /* terminal */
     "panel.background": "#f3f3f3",
