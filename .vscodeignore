@@ -1,4 +1,8 @@
+.github/**
 .vscode/**
 .vscode-test/**
+scripts/**
+themes/raw-color-theme.json
+.gitattributes
 .gitignore
-vsc-extension-quickstart.md
+.prettierrc
