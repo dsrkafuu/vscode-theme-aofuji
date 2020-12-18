@@ -51,9 +51,9 @@
     "list.inactiveSelectionBackground": "#8aa2d333",
     "list.inactiveSelectionForeground": "#3f4551",
     "listFilterWidget.outline": "#8aa2d3cc",
-    "listFilterWidget.noMatchesOutline": "#ee6565cc",
+    "listFilterWidget.noMatchesOutline": "#ff9940cc",
     "listFilterWidget.background": "#fffffd",
-    "list.filterMatchBackground": "#ee656566",
+    "list.filterMatchBackground": "#ff994066",
 
     /* activity bar */
     "activityBar.background": "#f3f3f3",
@@ -84,11 +84,13 @@
     "editorCursor.foreground": "#3f4551",
     "editor.selectionBackground": "#8aa2d333",
     "editor.inactiveSelectionBackground": "#f3f3f3",
-    "editor.findMatchBackground": "#ee656599",
-    "editor.findMatchHighlightBackground": "#ee656566",
+    "editor.findMatchBackground": "#ff994099",
+    "editor.findMatchHighlightBackground": "#ff994066",
     "editor.hoverHighlightBackground": "#8aa2d366",
     "editor.lineHighlightBackground": "#f3f3f3",
     "editorLink.activeForeground": "#8aa2d3",
+    "editorBracketMatch.background": "#ff994066",
+    "editorBracketMatch.border": "#ffffff00",
 
     /* title bar */
     "titleBar.activeBackground": "#f3f3f3",

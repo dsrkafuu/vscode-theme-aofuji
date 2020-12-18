@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file. The format 
 ### Added
 
 - New no italic version
+- Bracket match color
 
 ### Changed
 
