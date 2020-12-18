@@ -30,13 +30,37 @@
         "label": "Aofuji",
         "uiTheme": "vs",
         "path": "./themes/aofuji-color-theme.json",
-        "color": "#8aa2d3"
+        "settings": {
+          "color": "#8aa2d3",
+          "italic": true
+        }
       },
       {
-        "label": "Aofuji (Oranji)",
+        "label": "Oranji",
         "uiTheme": "vs",
         "path": "./themes/oranji-color-theme.json",
-        "color": "#ff9940"
+        "settings": {
+          "color": "#ff9940",
+          "italic": true
+        }
+      },
+      {
+        "label": "Aofuji (No Italic)",
+        "uiTheme": "vs",
+        "path": "./themes/aofuji-nl-color-theme.json",
+        "settings": {
+          "color": "#8aa2d3",
+          "italic": false
+        }
+      },
+      {
+        "label": "Oranji (No Italic)",
+        "uiTheme": "vs",
+        "path": "./themes/oranji-nl-color-theme.json",
+        "settings": {
+          "color": "#ff9940",
+          "italic": false
+        }
       }
     ]
   },
@@ -56,7 +80,7 @@
     "vsce": "^1.81.1"
   },
   "scripts": {
-    "dev": "nodemon --watch themes/raw-color-theme.json --ext json scripts/build.js",
+    "dev": "nodemon --watch themes/raw-color-theme.json --watch package.json --watch src --ext json,js scripts/build.js",
     "compile": "node scripts/build.js",
     "package": "vsce package",
     "build": "npm-run-all compile package"
