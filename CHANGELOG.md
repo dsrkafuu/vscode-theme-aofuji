@@ -5,23 +5,20 @@ All notable changes to this project will be documented in this file. The format 
 ## [Unreleased]
 
 ### Added
-
 - New no italic version
-- Bracket match color
+- Bracket match colors remap
+- Editor widget colors remap
 
 ### Changed
-
 - Optimize syntax highlighting contrast ratio
 - Adjust unused code opacity
 
 ## [0.1.1] - 2020-12-17
 
 ### Changed
-
 - Fix theme metadata
 
 ## [0.1.0] - 2020-12-17
 
 ### Added
-
 - Initial release

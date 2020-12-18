@@ -54,7 +54,6 @@
     "listFilterWidget.noMatchesOutline": "#ff9940cc",
     "listFilterWidget.background": "#fffffd",
     "list.filterMatchBackground": "#ff994066",
-    "editorUnnecessaryCode.opacity": "#ffffff99",
 
     /* activity bar */
     "activityBar.background": "#f3f3f3",
@@ -79,7 +78,7 @@
 
     /* editor */
     "editor.background": "#fffffd",
-    "editor.foreground": "#3f4551bf",
+    "editor.foreground": "#3f4551d0",
     "editorLineNumber.foreground": "#3f455166",
     "editorLineNumber.activeForeground": "#8aa2d3",
     "editorCursor.foreground": "#3f4551",
@@ -92,6 +91,12 @@
     "editorLink.activeForeground": "#8aa2d3",
     "editorBracketMatch.background": "#ff994066",
     "editorBracketMatch.border": "#ffffff00",
+    "editorUnnecessaryCode.opacity": "#ffffff99",
+
+    /* editor widget */
+    "editorWidget.background": "#fafafa",
+    "editorSuggestWidget.selectedBackground": "#8aa2d366",
+    "editorSuggestWidget.highlightForeground": "#3f4551d0",
 
     /* title bar */
     "titleBar.activeBackground": "#f3f3f3",
