@@ -12,6 +12,7 @@ All notable changes to this project will be documented in this file. The format 
 ### Changed
 
 - Optimize syntax highlighting contrast ratio
+- Adjust unused code opacity
 
 ## [0.1.1] - 2020-12-17
 

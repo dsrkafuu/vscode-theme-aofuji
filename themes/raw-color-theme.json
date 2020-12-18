@@ -54,6 +54,7 @@
     "listFilterWidget.noMatchesOutline": "#ff9940cc",
     "listFilterWidget.background": "#fffffd",
     "list.filterMatchBackground": "#ff994066",
+    "editorUnnecessaryCode.opacity": "#ffffff99",
 
     /* activity bar */
     "activityBar.background": "#f3f3f3",
