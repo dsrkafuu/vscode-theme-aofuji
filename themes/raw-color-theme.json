@@ -128,8 +128,18 @@
       "settings": { "foreground": "#f97e25" }
     },
     {
+      "name": "template string reset",
+      "scope": ["meta.template.expression"],
+      "settings": { "foreground": "#3f4551d0" }
+    },
+    {
       "name": "keyword",
       "scope": ["keyword"],
+      "settings": { "foreground": "#ee6565" }
+    },
+    {
+      "name": "variable language",
+      "scope": ["variable.language"],
       "settings": { "foreground": "#ee6565" }
     },
     {
@@ -166,6 +176,11 @@
       "name": "types",
       "scope": ["entity.name.type"],
       "settings": { "foreground": "#2293e3" }
+    },
+    {
+      "name": "template string",
+      "scope": ["punctuation.definition.template-expression"],
+      "settings": { "foreground": "#9668c5" }
     },
 
     /* s?(c|a)ss less stylus */
@@ -235,6 +250,11 @@
       "name": "attr",
       "scope": ["entity.other.attribute-name"],
       "settings": { "foreground": "#2cb300" }
+    },
+    {
+      "name": "component",
+      "scope": ["support.class.component"],
+      "settings": { "foreground": "#2293e3" }
     },
 
     /* (json|yaml|toml) */
