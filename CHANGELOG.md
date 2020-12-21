@@ -5,6 +5,9 @@ All notable changes to this project will be documented in this file. The format 
 
 ## [Unreleased]
 
+### Changed
+- Fix template string and html component syntax
+
 
 ## [0.2.0] - 2020-12-18
 
