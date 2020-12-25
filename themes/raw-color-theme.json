@@ -182,6 +182,11 @@
       "scope": ["punctuation.definition.template-expression"],
       "settings": { "foreground": "#9668c5" }
     },
+    {
+      "name": "language constant",
+      "scope": ["constant.language"],
+      "settings": { "foreground": "#9668c5" }
+    },
 
     /* s?(c|a)ss less stylus */
     {

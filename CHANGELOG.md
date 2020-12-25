@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file. The format 
 
 ## [Unreleased]
 
+### Changed
+
+- Fix language constant syntax
+
 ## [0.2.1] - 2020-12-22
 
 ### Changed
