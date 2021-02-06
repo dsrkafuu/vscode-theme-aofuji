@@ -178,11 +178,6 @@
       "settings": { "foreground": "#2293e3" }
     },
     {
-      "name": "new",
-      "scope": ["new.expr entity.name.function"],
-      "settings": { "foreground": "#2293e3" }
-    },
-    {
       "name": "template string",
       "scope": ["punctuation.definition.template-expression"],
       "settings": { "foreground": "#9668c5" }
