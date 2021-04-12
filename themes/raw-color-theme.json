@@ -1,4 +1,4 @@
-/*! vscode-theme-aofuji | DSRKafuU <amzrk2.cc> | Copyright (c) MIT License */
+/*! vscode-theme-aofuji | DSRKafuU (https://dsrkafuu.su) | Copyright (c) MIT License */
 
 {
   "name": "Aofuji",
@@ -174,7 +174,7 @@
     },
     {
       "name": "types",
-      "scope": ["entity.name.type"],
+      "scope": ["entity.name.type", "support.type", "support.class", "support.constant"],
       "settings": { "foreground": "#2293e3" }
     },
     {
