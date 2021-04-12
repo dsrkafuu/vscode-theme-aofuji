@@ -4,6 +4,24 @@ All notable changes to this project will be documented in this file. The format 
 
 ## [Unreleased]
 
+## [0.2.5] - 2021-04-12
+
+### Removed
+
+- Deprecate this package and migrating to `dsrkafuu.vscode-theme-aofuji`
+
+## [0.2.4] - 2021-02-06
+
+### Changed
+
+- Fix function syntax highlighting
+
+## [0.2.3] - 2021-02-06
+
+### Changed
+
+- Fix new express class
+
 ## [0.2.2] - 2020-12-25
 
 ### Changed
