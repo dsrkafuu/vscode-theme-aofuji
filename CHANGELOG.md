@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file. The format 
 
 ## [Unreleased]
 
+## [0.3.1] - 2021-04-12
+
+### Changed
+
+- Fix types and builtin constants hightlight
+
 ## [0.3.0] - 2021-04-12
 
 ### Added
