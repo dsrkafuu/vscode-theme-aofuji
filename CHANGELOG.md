@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file. The format 
 
 ## [Unreleased]
 
+## [0.3.0] - 2021-04-12
+
+### Added
+
+- Initial release of scope `dsrkafuu`
+
 ## [0.2.5] - 2021-04-12
 
 ### Removed

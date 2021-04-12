@@ -2,9 +2,9 @@
   "name": "vscode-theme-aofuji",
   "displayName": "Aofuji Light Theme",
   "description": "A clean light theme extended from Aofuji.",
-  "version": "0.2.5",
-  "author": "DSRKafuU <amzrk2@outlook.com> (https://amzrk2.cc)",
-  "publisher": "amzrk2",
+  "version": "0.3.0",
+  "author": "DSRKafuU <dsrkafuu@outlook.com> (https://dsrkafuu.su)",
+  "publisher": "dsrkafuu",
   "engines": {
     "vscode": "^1.31.1"
   },
@@ -65,13 +65,13 @@
     ]
   },
   "license": "Apache-2.0",
-  "homepage": "https://github.com/amzrk2/vscode-theme-aofuji",
+  "homepage": "https://github.com/dsrkafuu/vscode-theme-aofuji",
   "bugs": {
-    "url": "https://github.com/amzrk2/vscode-theme-aofuji/issues"
+    "url": "https://github.com/dsrkafuu/vscode-theme-aofuji/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/amzrk2/vscode-theme-aofuji.git"
+    "url": "https://github.com/dsrkafuu/vscode-theme-aofuji.git"
   },
   "devDependencies": {
     "json5": "^2.2.0",
