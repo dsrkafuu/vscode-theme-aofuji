@@ -4,11 +4,17 @@ All notable changes to this project will be documented in this file. The format 
 
 ## [Unreleased]
 
+## [0.3.2] - 2021-04-12
+
+### Changed
+
+- Fix css property highlight
+
 ## [0.3.1] - 2021-04-12
 
 ### Changed
 
-- Fix types and builtin constants hightlight
+- Fix types and builtin constants highlight
 
 ## [0.3.0] - 2021-04-12
 
