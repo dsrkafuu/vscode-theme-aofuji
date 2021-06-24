@@ -3,6 +3,7 @@
   "displayName": "Aofuji Light Theme",
   "description": "A clean light theme extended from Aofuji.",
   "version": "0.3.3",
+  "license": "MPL-2.0",
   "author": "DSRKafuU <dsrkafuu@outlook.com> (https://dsrkafuu.su)",
   "publisher": "dsrkafuu",
   "engines": {
@@ -64,7 +65,6 @@
       }
     ]
   },
-  "license": "Apache-2.0",
   "homepage": "https://github.com/dsrkafuu/vscode-theme-aofuji",
   "bugs": {
     "url": "https://github.com/dsrkafuu/vscode-theme-aofuji/issues"
