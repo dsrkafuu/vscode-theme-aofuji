@@ -95,8 +95,11 @@
 
     /* editor widget */
     "editorWidget.background": "#fafafa",
+    "editorSuggestWidget.foreground": "#3f4551d0",
     "editorSuggestWidget.selectedBackground": "#8aa2d366",
+    "editorSuggestWidget.selectedForeground": "#3f4551d0",
     "editorSuggestWidget.highlightForeground": "#3f4551d0",
+    "editorSuggestWidget.focusHighlightForeground": "#3f4551d0",
 
     /* title bar */
     "titleBar.activeBackground": "#f3f3f3",
