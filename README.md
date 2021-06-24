@@ -63,4 +63,4 @@ When opening a file that has a language associated. The languages' configured gr
 
 ## License
 
-The theme is released under the `Apache License 2.0`, for more information read the [LICENSE](https://github.com/dsrkafuu/vscode-theme-aofuji/blob/main/LICENSE).
+The theme is released under the `Mozilla Public License 2.0`, for more information read the [LICENSE](https://github.com/dsrkafuu/vscode-theme-aofuji/blob/main/LICENSE).
