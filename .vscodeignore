@@ -1,6 +1,7 @@
 .github/**
 .vscode/**
 .vscode-test/**
+node_modules/**
 scripts/**
 themes/raw-color-theme.json
 .gitattributes
