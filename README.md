@@ -12,13 +12,6 @@
   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/dsrkafuu/vscode-theme-aofuji/test">&nbsp;<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/dsrkafuu/vscode-theme-aofuji">&nbsp;<img alt="GitHub" src="https://img.shields.io/github/license/dsrkafuu/vscode-theme-aofuji">
 </p>
 
-## ❗ Migration Note ❗
-
-This package has been transfered from `amzrk2.vscode-theme-aofuji` to `dsrkafuu.vscode-theme-aofuji`, please use new scopes below to re-install/install the package:
-
-- Link: [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=dsrkafuu.vscode-theme-aofuji)
-- Code: `ext install dsrkafuu.vscode-theme-aofuji`
-
 ## Preview
 
 <p align="center">
@@ -36,6 +29,8 @@ ext install dsrkafuu.vscode-theme-aofuji
 ```
 
 The theme is recommended to be used with icons from [Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme).
+
+The [default enabled bracket pair colorization feature](https://code.visualstudio.com/updates/v1_67#_bracket-pair-colorization-enabled-by-default) after VSCode 1.67 may makes the theme looks bad. Disable it manually when using the theme is recommended since there is no way to disable it by theme maker currently. Check out [this issue](https://github.com/microsoft/vscode/issues/148859) for more details.
 
 ## Theme Status
 

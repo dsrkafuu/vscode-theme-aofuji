@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file. The format 
 
 ## [Unreleased]
 
+## [0.3.5] - 2022-05-06
+
+### Changed
+
+- Temporary fix notice for bracket pair colorization [#148859](https://github.com/microsoft/vscode/issues/148859)
+
+## [0.3.4] - 2022-04-09
+
+### Changed
+
+- Remove redudant files in package
+
 ## [0.3.3] - 2021-06-24
 
 ### Changed
