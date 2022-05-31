@@ -57,8 +57,8 @@ async function build() {
 }
 build()
   .then(() => {
-    console.log('[Aofuji] Theme built successfully');
+    console.log('[aofuji] theme built successfully');
   })
   .catch((e) => {
-    console.log('[Aofuji]', e);
+    console.log('[aofuji]', e);
   });
