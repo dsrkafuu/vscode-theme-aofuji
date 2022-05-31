@@ -4,6 +4,7 @@
 node_modules/**
 scripts/**
 themes/raw-color-theme.json
+.eslintrc.json
 .gitattributes
 .gitignore
 .prettierrc

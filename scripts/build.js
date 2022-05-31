@@ -22,6 +22,9 @@ function genTheme(path, name, settings) {
         return;
       }
       // read raw
+      const rawFile = fs.readFileSync(RAW_PATH, 'utf-8');
+      // get first line license
+      const license = rawFile.split('\n')[0];
       const data = JSON5.parse(fs.readFileSync(RAW_PATH).toString());
       // set name
       data.name = name;
@@ -40,7 +43,7 @@ function genTheme(path, name, settings) {
         removeItalic(data.tokenColors);
       }
       // write theme
-      fs.writeFileSync(path, JSON.stringify(data));
+      fs.writeFileSync(path, license + '\n' + JSON.stringify(data));
       resolve(data);
     } catch (e) {
       reject(e);
