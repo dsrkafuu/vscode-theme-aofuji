@@ -56,6 +56,16 @@ Then open the folder with VSCode:
 
 When opening a file that has a language associated. The languages' configured grammar will tokenize the text and assign 'scopes' to the tokens. To examine these scopes, invoke the `Inspect Editor Tokens and Scopes` command from the Command Palette.
 
+Open VSX Registry:
+
+```bash
+npx ovsx publish <file> -p <token>
+```
+
 ## License
 
 The theme is released under the `Mozilla Public License 2.0`, for more information read the [LICENSE](https://github.com/dsrkafuu/vscode-theme-aofuji/blob/main/LICENSE).
+
+```
+
+```
