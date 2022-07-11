@@ -22,6 +22,8 @@
 
 Install directly in [Aofuji Light Theme - VS Marketplace](https://marketplace.visualstudio.com/items?itemName=dsrkafuu.vscode-theme-aofuji).
 
+Or from [Open VSX Registry](https://open-vsx.org/extension/dsrkafuu/vscode-theme-aofuji).
+
 Or use:
 
 ```bash
