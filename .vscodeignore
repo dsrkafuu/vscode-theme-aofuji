@@ -8,3 +8,4 @@ themes/raw-color-theme.json
 .gitattributes
 .gitignore
 .prettierrc
+*.lock

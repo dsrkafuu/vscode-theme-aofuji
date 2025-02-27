@@ -9,7 +9,7 @@
 <h4 align="center">A minimal light theme extended from Aofuji.</h4>
 
 <p align="center">
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/dsrkafuu/vscode-theme-aofuji/test">&nbsp;<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/dsrkafuu/vscode-theme-aofuji">&nbsp;<img alt="GitHub" src="https://img.shields.io/github/license/dsrkafuu/vscode-theme-aofuji">
+  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/dsrkafuu/vscode-theme-aofuji">&nbsp;<img alt="GitHub" src="https://img.shields.io/github/license/dsrkafuu/vscode-theme-aofuji">
 </p>
 
 ## Preview
@@ -67,7 +67,3 @@ npx ovsx publish <file> -p <token>
 ## License
 
 The theme is released under the `Mozilla Public License 2.0`, for more information read the [LICENSE](https://github.com/dsrkafuu/vscode-theme-aofuji/blob/main/LICENSE).
-
-```
-
-```

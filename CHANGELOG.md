@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file. The format 
 
 ## [Unreleased]
 
+## [0.5.0] - 2025-02-27
+
+### Changed
+
+- Clean up the repo & README
+
 ## [0.3.5] - 2022-05-06
 
 ### Changed
